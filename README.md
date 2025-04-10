@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![1735870905804579](https://github.com/user-attachments/assets/c2e05a36-0500-47fb-8591-a1af9d910c6b)
+
 <!--
 **Abdnajmi/Abdnajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
